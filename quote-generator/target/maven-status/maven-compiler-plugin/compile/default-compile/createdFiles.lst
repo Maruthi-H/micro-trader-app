@@ -1,0 +1,3 @@
+io/vertx/workshop/quote/RestQuoteAPIVerticle.class
+io/vertx/workshop/quote/MarketDataVerticle.class
+io/vertx/workshop/quote/GeneratorConfigVerticle.class

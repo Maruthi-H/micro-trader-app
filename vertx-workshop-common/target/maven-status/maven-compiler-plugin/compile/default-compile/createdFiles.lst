@@ -1,0 +1,3 @@
+io/vertx/workshop/common/Launcher.class
+io/vertx/workshop/common/MicroServiceVerticle.class
+io/vertx/workshop/common/RxMicroServiceVerticle.class

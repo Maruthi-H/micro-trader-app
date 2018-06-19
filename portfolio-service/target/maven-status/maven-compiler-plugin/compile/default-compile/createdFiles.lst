@@ -1,0 +1,9 @@
+vertx-workshop-portfolio-js/portfolio_service-proxy.js
+io/vertx/workshop/portfolio/PortfolioServiceVertxProxyHandler.class
+io/vertx/workshop/portfolio/impl/PortfolioServiceImpl.class
+io/vertx/workshop/portfolio/impl/PortfolioVerticle.class
+io/vertx/workshop/portfolio/PortfolioConverter.class
+io/vertx/workshop/portfolio/package-info.class
+io/vertx/workshop/portfolio/PortfolioServiceVertxEBProxy.class
+io/vertx/workshop/portfolio/Portfolio.class
+io/vertx/workshop/portfolio/PortfolioService.class

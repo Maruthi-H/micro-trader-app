@@ -1,0 +1,3 @@
+/home/maruthi/Personal/learn-vertx/micro-trader-app/quote-generator/src/main/java/io/vertx/workshop/quote/MarketDataVerticle.java
+/home/maruthi/Personal/learn-vertx/micro-trader-app/quote-generator/src/main/java/io/vertx/workshop/quote/GeneratorConfigVerticle.java
+/home/maruthi/Personal/learn-vertx/micro-trader-app/quote-generator/src/main/java/io/vertx/workshop/quote/RestQuoteAPIVerticle.java
